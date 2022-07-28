@@ -3641,7 +3641,7 @@ ul.dropdown li.divider {
     font-style: italic;
   }
   img {
-    max-width: 100% !important;
+    max-width: 200% !important;
   }
   select {
     background: #fff !important;
